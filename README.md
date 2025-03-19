@@ -27,7 +27,7 @@ class Zyrakk:
 ---
 
 ### ⚡ Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrakk&layout=compact&theme=dark)
 
 ---
 

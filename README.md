@@ -27,12 +27,7 @@ class Zyrakk:
 ---
 
 ### ⚡ Tech Stack
-🔹 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)  
-🔹 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)  
-🔹 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)  
-🔹 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
-🔹 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000?&logo=kalilinux)  
-🔹 ![Networking](https://img.shields.io/badge/-Networking-000?&logo=cisco) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
 
 ---
 
